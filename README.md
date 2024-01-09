@@ -17,11 +17,11 @@ Leaflet-Part-1: This directory contains the files for Part 1 of the assignment, 
 To run the code for the completed Leaflet Challenge, you will need the following requirements:
 
 1. Web Browser: Ensure that you have a modern web browser installed on your computer, such as Google Chrome, Mozilla Firefox, Microsoft Edge, or Safari.
-Internet Connection: Since the code fetches earthquake and tectonic plate data from external sources, you will need an active internet connection to retrieve and display the data on the map.
-2. Code Files: Make sure you have access to the code files for the assignment. These files include HTML, JavaScript, and CSS files. The main HTML files, named index_Leaflet_Part_1.html and index_Leaflet_Part_2.html, is the entry point for running the application.
-3. Leaflet Library: The code relies on the Leaflet library to create the interactive map and handle the mapping functionalities. Ensure that you have included the Leaflet library in your project files.
-4. GeoJSON Data: The code fetches earthquake data and, optionally, tectonic plate data in GeoJSON format from external sources. Once you have met these requirements, you should be able to run the code by opening the main HTML file (index.html) in your web browser. The map and associated functionalities should load, allowing you to explore the earthquake data visualization and, if applicable, the tectonic plate data overlay.
-Usage
+2. Internet Connection: Since the code fetches earthquake data from external sources, you will need an active internet connection to retrieve and display the data on the map.
+3. Code Files: Make sure you have access to the code files for the assignment. These files include HTML, JavaScript, and CSS files. The main HTML files, named index_Leaflet_Part_1.html is the entry point for running the application.
+4. Leaflet Library: The code relies on the Leaflet library to create the interactive map and handle the mapping functionalities. Ensure that you have included the Leaflet library in your project files.
+5. GeoJSON Data: The code fetches earthquake data from external sources. Once you have met these requirements, you should be able to run the code by opening the main HTML file (index.html) in your web browser. The map and associated functionalities should load, allowing you to explore the earthquake data visualization.
+
 
 To view the completed assignment and explore the web map, follow these instructions:
 
