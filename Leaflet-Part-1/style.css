@@ -1,0 +1,30 @@
+/* style.css */
+
+/* Apply styles to the map container */
+#map {
+  height: 600px;
+}
+
+/* Apply styles to the legend */
+.legend {
+  background-color: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+/* Apply styles to the title */
+.title {
+  background-color: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+
