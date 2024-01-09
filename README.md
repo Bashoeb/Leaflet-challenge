@@ -18,7 +18,7 @@ To run the code for the completed Leaflet Challenge, you will need the following
 
 1. Web Browser: Ensure that you have a modern web browser installed on your computer, such as Google Chrome, Mozilla Firefox, Microsoft Edge, or Safari.
 2. Internet Connection: Since the code fetches earthquake data from external sources, you will need an active internet connection to retrieve and display the data on the map.
-3. Code Files: Make sure you have access to the code files for the assignment. These files include HTML, JavaScript, and CSS files. The main HTML files, named index_Leaflet_Part_1.html is the entry point for running the application.
+3. Code Files: Make sure you have access to the code files for the assignment. These files include HTML, JavaScript, and CSS files. The main HTML files, named index.html is the entry point for running the application.
 4. Leaflet Library: The code relies on the Leaflet library to create the interactive map and handle the mapping functionalities. Ensure that you have included the Leaflet library in your project files.
 5. GeoJSON Data: The code fetches earthquake data from external sources. Once you have met these requirements, you should be able to run the code by opening the main HTML file (index.html) in your web browser. The map and associated functionalities should load, allowing you to explore the earthquake data visualization.
 
